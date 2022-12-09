@@ -1,8 +1,6 @@
-# This is my Version of Black Jack
+# Black Jack
 
 import time
-print("Gordon Collins-Faunce")
-print("CIS 110 Program 11")
 print(time.asctime(time.localtime(time.time())))
 print("")
 
